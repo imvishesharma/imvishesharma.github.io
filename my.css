@@ -1,12 +1,13 @@
-#div1 {
-    background-color: rgba(0, 0, 0, 0.1);
+body {
+    margin: 0px;
 }
-#divx {
-    opacity: 50%;
-    
+
+#img-quote {
+    width: 100%;
 }
-#opq1 {
-    z-index: 1;
+
+#name {
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
+    text-align: center;
 }
