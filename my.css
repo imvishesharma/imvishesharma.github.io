@@ -13,6 +13,7 @@ body {
 }
 #quote {
     font-size: 25px;
+    font-family: serif;
     text-align: center;
     opacity: 80%;
 }
