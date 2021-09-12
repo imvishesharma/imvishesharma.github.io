@@ -25,7 +25,7 @@ function onInit() {
     document.getElementById("icon").style.top = (IMG_HEIGHT - 60) + "px";
 }
 
-function f() {
+function firstlook() {
     var h = IMG_HEIGHT; //window.outerHeight;
     var w = window.outerWidth;
 
